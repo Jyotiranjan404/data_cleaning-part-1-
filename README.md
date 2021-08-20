@@ -1,4 +1,7 @@
 # data_cleaning-part-1
+Hi, This is jyotiranjan padhi
+
+# Task to perform on Lending data
 
 1. Delete unnecessary Rows and Columns
 
