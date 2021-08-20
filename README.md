@@ -13,9 +13,9 @@ Hi, This is jyotiranjan padhi
 
 5. Convert Lending Asset Size = Category like 0, 1, 2 etc based on levels available.
 
-6. Provide me final report before data cleaning and after data cleaning.
+6. Make sure every column in its respective data type.
 
-7. Make sure every column in its respective data type.
+7. Save this data into csv format
 
 # all documents are available here
 https://github.com/Jyotiranjan404/data_cleaning-part-1-
